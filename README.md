@@ -205,7 +205,7 @@ This implementation is part of the patented MDCP technology. Commercial licensin
 
 GPL-3.0-or-later
 
-Copyright © 2026 The Murray Family Innovation Trust
+Copyright © 2026 Spey Systems LTD
 
 ---
 

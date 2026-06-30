@@ -2,7 +2,7 @@
  * @file vectors.h
  * @brief Golden Reference Vectors for L1 Primitives
  *
- * Copyright (c) 2026 The Murray Family Innovation Trust
+ * Copyright (c) 2026 Spey Systems LTD
  * SPDX-License-Identifier: GPL-3.0-or-later
  *
  * DVEC: v1.3
