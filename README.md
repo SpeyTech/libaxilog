@@ -2,7 +2,7 @@
 
 **DVM Q16.16 Arithmetic Substrate for Axioma**
 
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 [![SRS: SRS-005](https://img.shields.io/badge/SRS-005%20v1.1-green.svg)](docs/SRS-005.md)
 [![Determinism: D1](https://img.shields.io/badge/Determinism-D1%20Strict-purple.svg)]()
 
@@ -203,7 +203,7 @@ This implementation is part of the patented MDCP technology. Commercial licensin
 
 ## License
 
-GPL-3.0-or-later
+AGPL-3.0-or-later
 
 Copyright © 2026 Spey Systems LTD
 

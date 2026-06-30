@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test_compare.dir/tests/test_compare.c.o -o test_compare  libaxilog.a 

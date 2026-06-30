@@ -3,7 +3,7 @@
  * @brief DVM Core Types — Q16.16 Fixed-Point and Fault Flags
  *
  * Copyright (c) 2026 Spey Systems LTD
- * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-License-Identifier: AGPL-3.0-or-later
  *
  * DVEC: v1.3
  * DETERMINISM: D1 — Strict Deterministic
