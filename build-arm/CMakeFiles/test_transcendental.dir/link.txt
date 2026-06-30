@@ -1,1 +1,0 @@
-/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test_transcendental.dir/tests/test_transcendental.c.o -o test_transcendental  libaxilog.a 

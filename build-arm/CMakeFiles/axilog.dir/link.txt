@@ -1,2 +1,0 @@
-/usr/bin/ar qc libaxilog.a CMakeFiles/axilog.dir/src/arith.c.o CMakeFiles/axilog.dir/src/compare.c.o CMakeFiles/axilog.dir/src/convert.c.o CMakeFiles/axilog.dir/src/transcendental.c.o
-/usr/bin/ranlib libaxilog.a
