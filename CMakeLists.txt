@@ -71,11 +71,15 @@ set(AXILOG_HARDENED_FLAGS
     -Wunused
     -Wformat=2
     -Wformat-security
-    -Wstack-usage=1024
     -fstack-protector-strong
     -fno-common
     -fvisibility=hidden
 )
+
+# -Wstack-usage is GCC-only; Clang rejects it under -Werror.
+if(CMAKE_C_COMPILER_ID STREQUAL "GNU")
+    list(APPEND AXILOG_HARDENED_FLAGS -Wstack-usage=1024)
+endif()
 
 # Additional flags for Debug builds (sanitizers)
 set(AXILOG_DEBUG_FLAGS

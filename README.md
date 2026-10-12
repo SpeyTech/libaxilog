@@ -3,7 +3,7 @@
 **DVM Q16.16 Arithmetic Substrate for Axioma**
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
-[![SRS: SRS-005](https://img.shields.io/badge/SRS-005%20v1.1-green.svg)](docs/SRS-005.md)
+[![SRS: SRS-005](https://img.shields.io/badge/SRS-005%20v1.1-green.svg)](https://github.com/SpeyTech/axioma-spec/blob/main/docs/requirements/SRS-005-v1.1.md)
 [![Determinism: D1](https://img.shields.io/badge/Determinism-D1%20Strict-purple.svg)]()
 
 ---
