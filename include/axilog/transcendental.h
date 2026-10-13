@@ -9,7 +9,6 @@
  * DETERMINISM: D1 — Strict Deterministic
  * MEMORY: Zero Dynamic Allocation
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * All transcendental functions use fixed polynomial approximations
  * with frozen coefficients. No floating-point intermediates.

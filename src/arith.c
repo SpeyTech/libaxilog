@@ -9,7 +9,6 @@
  * DETERMINISM: D1 — Strict Deterministic
  * MEMORY: Zero Dynamic Allocation
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * All arithmetic uses int64_t widening for overflow detection.
  * No floating-point. No signed right-shift. Truncation toward zero.

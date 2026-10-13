@@ -9,7 +9,6 @@
  * DETERMINISM: D1 — Strict Deterministic
  * MEMORY: Zero Dynamic Allocation
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * All comparisons are signed, total, and bit-identical across platforms.
  * No floating-point conversion or host math libraries.

@@ -7,7 +7,6 @@
  *
  * DVEC: v1.3
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * @traceability SRS-005-SHALL-005, SRS-005-SHALL-006, SRS-005-SHALL-007,
  *               SRS-005-SHALL-068

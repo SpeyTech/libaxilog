@@ -8,7 +8,6 @@
 # DVEC: v1.3
 # DETERMINISM: D1 — Strict Deterministic
 # SRS: SRS-005
-# Patent: UK GB2521625.0
 #
 # Build:
 #   mkdir build && cd build

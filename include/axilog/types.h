@@ -9,7 +9,6 @@
  * DETERMINISM: D1 — Strict Deterministic
  * MEMORY: Zero Dynamic Allocation
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * This is the CANONICAL source for Q16.16 types and fault flags.
  * All other Axioma layers (L2–L7) SHALL depend on this header.

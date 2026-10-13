@@ -9,7 +9,6 @@
  * DETERMINISM: D1 — Strict Deterministic
  * MEMORY: Zero Dynamic Allocation
  * SRS: SRS-005
- * Patent: UK GB2521625.0
  *
  * @traceability SRS-005-SHALL-005, SRS-005-SHALL-006, SRS-005-SHALL-007,
  *               SRS-005-SHALL-008, SRS-005-SHALL-009, SRS-005-SHALL-064,

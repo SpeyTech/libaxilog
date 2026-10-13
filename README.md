@@ -193,14 +193,6 @@ The `ct_fault_flags_t` structure is the **canonical source** for fault propagati
 
 ---
 
-## Patent Notice
-
-**UK Patent GB2521625.0** — Murray Deterministic Computing Platform (MDCP)
-
-This implementation is part of the patented MDCP technology. Commercial licensing available from SpeyTech.
-
----
-
 ## License
 
 AGPL-3.0-or-later

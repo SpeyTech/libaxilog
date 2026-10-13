@@ -6,7 +6,6 @@ Copyright (c) 2026 Spey Systems LTD
 SPDX-License-Identifier: AGPL-3.0-or-later
 
 SRS: SRS-005 v1.1-Frozen
-Patent: UK GB2521625.0
 
 Verifies that all SRS-005 SHALL requirements are traced to implementation
 and test code.
